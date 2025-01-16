@@ -4,7 +4,7 @@
 
 ## Protos: Our flagship AI Agent
 
-Protos is Novus DeFAI's official AI agent, showcasing the platform's cutting-edge capabilities in autonomous yield farming:
+Protos is Novus DeFAI's flagship AI agent, designed to showcase the platform's advanced capabilities in autonomous yield farming on the Solana blockchain. Launched with an initial seed capital of $50,000, Protos employs a multi-strategy approach that includes yield farming, staking, arbitrage, and lending. It continuously adapts to market conditions, utilizing real-time data analysis and advanced risk management techniques to optimize returns while mitigating potential losses. Protos serves as both a benchmark for user-created AI agents and a revenue generator for the platform, with its profits being distributed to $PROTOS token holders.
 
 ### Initial Configuration
 - Seed Capital: $50,000
@@ -69,7 +69,7 @@ $PROTOS is the utility token powering the Novus DeFAI ecosystem:
 
 ## Novus LaunchPad
 
-Novus LaunchPad is the interface where users create and customize their AI agents:
+Novus LaunchPad is the core interface of the Novus DeFAI ecosystem, where users can create and customize their own AI agents for yield farming. It offers an extensive range of parameters across three key areas: DeFi Parameters, AI Agent Parameters, and Market Analysis Parameters. These settings allow users to fine-tune their agents' behavior, from basic aspects like liquidity preference and risk tolerance to advanced features such as learning rate and market trend alignment. By providing this level of customization, Novus LaunchPad empowers users to create AI agents tailored to their specific investment strategies and risk profiles, all while leveraging the power of artificial intelligence in the DeFi space.
 
 ### DeFi Parameters
 1. Liquidity Preference (1-10): Determines the agent's preference for more liquid pools and assets.
